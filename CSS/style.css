@@ -2,3 +2,7 @@ img {
     max-width: 300px;
     max-height: auto;
 }
+
+.container {
+    margin-bottom: 50px;
+}
